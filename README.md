@@ -1,4 +1,4 @@
-![EST  2014](https://user-images.githubusercontent.com/114870505/236068695-67f5d64a-5c88-4ea2-aefa-5fa7db5b929c.png)
+<img src="https://user-images.githubusercontent.com/114870505/236068695-67f5d64a-5c88-4ea2-aefa-5fa7db5b929c.png" width="1000" height="300" />
   
 <h1 align="center">Hi 👋, I'm Gargar Grimes</h1>
 <h3 align="center">Aspiring Backend developer from Atlanta</h3>
