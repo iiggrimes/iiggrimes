@@ -14,12 +14,12 @@
 
 - 📫 How to reach me **gargargrimes@gmail.com**
 
-- ⚡ I am always **learning and advancing**
+- ⚡ Thanks for your time
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gargar-grimes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gargar-grimes" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/iigrimes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iigrimes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@iigrimes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iigrimes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
