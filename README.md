@@ -1,7 +1,7 @@
 [![MasterHead](file:///Users/grimes/Downloads/EST.%202014.html)]
 <h1 align="center">Hi 👋, I'm Gargar Grimes</h1>
 <h3 align="center">Aspiring Backend developer from Atlanta</h3>
-<img align="right" alt="Coding" width="400" src="(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTExZmRmYmJmYjg2NGNkZmFjNTEyZjIyZjQ4YTc3MDY5MWFlNDg4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/tHXbr2tg48fqhwMcrx/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTExZmRmYmJmYjg2NGNkZmFjNTEyZjIyZjQ4YTc3MDY5MWFlNDg4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/tHXbr2tg48fqhwMcrx/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iiggrimes&label=Profile%20views&color=0e75b6&style=flat" alt="iiggrimes" /> </p>
