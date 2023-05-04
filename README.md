@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gargargrimes@gmail.com**
 
-- ⚡ Thanks for your time
+- ⚡ Thank you for your time, lets collaborate!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
