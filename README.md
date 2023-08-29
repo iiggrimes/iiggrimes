@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iiggrimes&label=Profile%20views&color=0e75b6&style=flat" alt="iiggrimes" /> </p>
 
-- 🔭 I’m currently working on **a Habit tracker**
+- 🔭 I’m currently working on **taking the Java SE 17 Developer Exam**
 
 - 🌱 I’m currently improving on **Algorithms and my familiarity with servers**
 
