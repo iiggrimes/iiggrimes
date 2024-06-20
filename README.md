@@ -1,13 +1,13 @@
 <img src="https://user-images.githubusercontent.com/114870505/236068695-67f5d64a-5c88-4ea2-aefa-5fa7db5b929c.png" width="1000" height="300" />
   
 <h1 align="center">Hi 👋, I'm Gargar Grimes</h1>
-<h3 align="center">Aspiring Backend developer from Atlanta</h3>
+<h3 align="center">Aspiring Software developer from Atlanta</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTExZmRmYmJmYjg2NGNkZmFjNTEyZjIyZjQ4YTc3MDY5MWFlNDg4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/tHXbr2tg48fqhwMcrx/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iiggrimes&label=Profile%20views&color=0e75b6&style=flat" alt="iiggrimes" /> </p>
 
-- 🔭 I’m currently working on **taking the Java SE 17 Developer Exam**
+- 🔭 I’m currently working on **a budget tracker program**
 
 - 🌱 I’m currently improving on **Algorithms and my familiarity with servers**
 
