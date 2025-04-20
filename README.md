@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iiggrimes&label=Profile%20views&color=0e75b6&style=flat" alt="iiggrimes" /> </p>
 
-- 🔭 I’m currently working on **a budget tracker program**
+- 🔭 I’m currently working on **Projects including data**
 
-- 🌱 I’m currently improving on **Algorithms and my familiarity with servers**
+- 🌱 I’m currently improving on **my new endeavors**
 
-- 💬 Ask me about **Java and my hobby of drones**
+- 💬 Ask me about **Python and my hobby of drones**
 
 - 📫 How to reach me **gargargrimes@gmail.com**
 
